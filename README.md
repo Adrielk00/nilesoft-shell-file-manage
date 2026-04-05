@@ -37,21 +37,21 @@ Extras en el menú **Administrar archivos** de Nilesoft Shell:
 
 Extras in the Nilesoft Shell **Administrar archivos** (Manage files) menu:
 
-**When a shortcut (.lnk) is selected, under “Copiar ruta” (Copy path)**
+**When a shortcut (.lnk) is selected, under Copy path**
 
-- **Carpeta del destino (explorador):** opens File Explorer in the folder that contains the link target.
+- **Open target in new window:** opens File Explorer in the folder that contains the link target.
 
-**“Renombrar” (Rename) submenu** (works with multiple files or folders selected)
+**“Rename” submenu** (works with multiple files or folders selected)
 
-- **Limpiar nombre:** cleans the name (extra spaces, characters Windows doesn’t allow in file names).
-- **Reemplazar espacios por "_":** turns spaces into underscores.
+- **Clean up name:** cleans the name (extra spaces, characters Windows doesn’t allow in file names).
+- **Replace spaces with "_":** turns spaces into underscores.
 - **Camel Case:** Title Case style words.
 - **snake_case:** lowercase with underscores instead of spaces.
 - **kebab-case:** lowercase with hyphens instead of spaces.
-- **minúsculas / MAYÚSCULAS:** lowercases or uppercases the whole name.
-- **Limpiar acentos y diacríticos:** strips accents and **combining diacritics** from the name (e.g. acute/grave, umlauts, cedillas when decomposed), using Unicode normalization; **ß** becomes **ss**. Letters that stay a single code point (e.g. some **ø**, **ł**) may be unchanged.
-- **Numerar → Prefijo automático:** sorts by name and adds prefixes like 0001-, 0002- (skips names that already start with a number prefix).
-- **Numerar → Quitar numeración:** removes a leading “12- ” style prefix from the name.
+- **lowercase / UPPERCASE:** lowercases or uppercases the whole name.
+- **Strip accents and diacritics:** strips accents and **combining diacritics** from the name (e.g. acute/grave, umlauts, cedillas when decomposed), using Unicode normalization; **ß** becomes **ss**. Letters that stay a single code point (e.g. some **ø**, **ł**) may be unchanged.
+- **Numbering → Auto prefix:** sorts by name and adds prefixes like 0001-, 0002- (skips names that already start with a number prefix).
+- **Numbering → Remove numbering:** removes a leading “12- ” style prefix from the name.
 
 **New folder** (folder background)
 
