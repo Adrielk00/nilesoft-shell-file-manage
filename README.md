@@ -3,6 +3,13 @@ Nilesoft Shell — Opciones de administración de archivos con funciones avanzad
 
 # file-manage.nss — Qué hace lo añadido / What the extras do
 
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.imgur.com/8jmGOdt.png" width="200">
+  <img src="https://i.imgur.com/wovtt8f.png" width="200">
+  <img src="https://i.imgur.com/qwPwGhC.png" width="200">
+</div><br><br>
+
 ## ESPAÑOL
 
 Extras en el menú **Administrar archivos** de Nilesoft Shell:
